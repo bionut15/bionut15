@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<details>
+ <summary><h3>👨‍💻 Ionut Coding Journey</h3></summary>
+  total begginer 
